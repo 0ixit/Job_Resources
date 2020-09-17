@@ -11,7 +11,7 @@ These platform & strategy will help you to combat/crack most of companies-coding
  
 # Security Research Paper
 ## Usenix Security (2020)
-https://www.usenix.org/conference/usenixsecurity20/technical-sessions 
+* Usenix Security: https://www.usenix.org/conference/usenixsecurity20/technical-sessions 
 ### Co-located Events (2020)
 * SOUPS: 16th Symposium on Usable Privacy and Security: https://www.usenix.org/conference/soups2020/technical-sessions
 * CSET: 13th USENIX Workshop on Cyber Security Experimentation & Test: https://www.usenix.org/conference/cset20/workshop-program

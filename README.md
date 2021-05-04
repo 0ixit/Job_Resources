@@ -1,3 +1,7 @@
+#asfhasldkfasdf
+
+https://twitter.com/jmarcelino/status/1331683173512732675 
+
 # Coding Skills
 
 These platform & strategy will help you to combat/crack most of companies-coding-round: 
